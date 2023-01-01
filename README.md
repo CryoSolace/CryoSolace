@@ -1,1 +1,1 @@
-how do you style read me file
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryoSolace)](https://github.com/anuraghazra/github-readme-stats)
